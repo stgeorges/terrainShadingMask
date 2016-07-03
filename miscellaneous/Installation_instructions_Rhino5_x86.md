@@ -1,7 +1,7 @@
-Install "Terrain shading mask" Ladybug component on Rhino 5 x86.
+Install Ladybug _Terrain shading mask_ component on Rhino 5 x86.
 ==================
 
-Follow these four steps:
+Follow these four simple steps:
 
 **1)** Go to: http://gisinternals.com/release.php.
 

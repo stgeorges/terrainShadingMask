@@ -12,7 +12,7 @@ Here is a screenshot of the above link when ```release-1800-x64-gdal-1-11-4-maps
   <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step1a_64bit.jpg" width="450"/>
 </p>
 
-Then click on the link at the very top (at the moment that may be: ```release-1800-x64-gdal-1-11-4-mapserver-6-4-3.zip```). This will activate the .zip file download.
+Then click on the link at the very top. This will activate the .zip file download.
 Again here is a screenshot of the link when ```release-1800-x64-gdal-1-11-4-mapserver-6-4-3``` was the latest version:
 
 <p align="center">

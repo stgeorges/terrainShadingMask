@@ -42,6 +42,8 @@ You can find where terrain shading mask libraries folder is located by checking 
   <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step3b_64bit.jpg" width="450"/>
 </p>
 
+In the last two photos it is ```c:\ladybug\terrain shading mask libraries 64-bit``` but in your case it may be a different one.
+
 
 ==================
 **4)** Copy the content from its ```bin\gdal\csharp``` folder to the same ```c:\ladybug\terrain shading mask libraries 64-bit``` folder:

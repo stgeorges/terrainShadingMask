@@ -24,7 +24,7 @@ Again here is a screenshot of the link when ```release-1800-gdal-1-11-3-mapserve
 **2)** Check if the downloaded .zip file has been blocked: right click on it, choose ```Properties```. If there is an ```Unblock``` button click on it, and then click on ```OK```. If there is no ```Unblock``` button, just click on ```OK```:
 
 <p align="center">
-  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step2_32bit.jpg" width="350"/>
+  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step2_32bit.jpg" width="250"/>
 </p>
 
 
@@ -32,11 +32,15 @@ Again here is a screenshot of the link when ```release-1800-gdal-1-11-3-mapserve
 **3)** Extract the downloaded .zip file content anywhere.
 Then copy the content from its ```bin``` folder to the terrain shading mask libraries folder:
 
-photo.jpg
+<p align="center">
+  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step3a_32bit.jpg" width="450"/>
+</p>
 
 You can find where terrain shading mask libraries folder is located by checking the component's ```librariesFolder``` output:
 
-photo.jpg
+<p align="center">
+  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step3b_32bit.jpg" width="450"/>
+</p>
 
 In the last two photos it is ```c:\ladybug\terrain shading mask libraries 32-bit``` but in your case it may be a different one.
 
@@ -44,7 +48,9 @@ In the last two photos it is ```c:\ladybug\terrain shading mask libraries 32-bit
 ==================
 **4)** Copy the content from its ```bin\gdal\csharp``` folder to the same ```c:\ladybug\terrain shading mask libraries 32-bit``` folder:
 
-photo.jpg
+<p align="center">
+  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/step4_32bit.jpg" width="450"/>
+</p>
 
 That's it!
 Now close the Grasshopper and Rhino, and run both again.

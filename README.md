@@ -17,7 +17,7 @@ A terrain shading mask is essentially a diagram which maps the silhouette of the
   <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/terrain_shading_mask_surdulica.jpg" width="450"/>
 </p>
 
-Building simulation softwares (IES VE, Trnsys 3D, Design Builder...) can use the .obj geometry files, while photovoltaic-solar thermal software (PV*SOL, PVsyst...) can use .hor files.
+Building simulation softwares (IES VE, Trnsys 3D, Design Builder...) can use the .obj geometry files, while solar-photovoltaic-thermal software (PV*SOL, PVsyst...) can use .hor files.
 
 
 
@@ -25,7 +25,7 @@ Building simulation softwares (IES VE, Trnsys 3D, Design Builder...) can use the
 No installation is required.
 
 One just needs to look into the ```objFiles``` folder if one is looking for a geometric representation of the mask, or into the ```horFiles``` folder for textual representation of the mask.
-Both folders contain ```0_terrain_shading_masks_download_links.tsv``` files which can be used to more easily search the masks according to a certain continent and country.
+Both folders contain ```0_terrain_shading_masks_download_links.tsv``` files which can be used to more easily search the masks according to a certain continent and country, and get their direct download links.
 
 
 

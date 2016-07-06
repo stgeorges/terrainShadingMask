@@ -26,6 +26,7 @@ Additional permission under GNU GPL version 3 section 7:
 
 terrainShadingMask uses SRTM GL3 Global 90m raster data from opentopography.org with the following acknowledgement:
 
+- NASA JPL. (2013). NASA Shuttle Radar Topography Mission Global 3 arc second. NASA LP DAAC. http://doi.org/10.5067/MEaSUREs/SRTM/SRTMGL3.003
 - Farr, T. G., and M. Kobrick, 2000, Shuttle Radar Topography Mission produces a wealth of data. Eos Trans. AGU, 81:583-583.
 - Farr, T. G. et al., 2007, The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183. (Also available online at http://www2.jpl.nasa.gov/srtm/SRTM_paper.pdf)
 - Kobrick, M., 2006, On the toes of giants--How SRTM was born, Photogramm. Eng. Remote Sens., 72:206-210.

@@ -3,6 +3,8 @@
 # terrainShadingMask
 terrainShadingMask is a free collection of terrain shading masks in a form of .obj geometry files and .hor textual files.
 
+
+
 # Description
 A terrain shading mask is essentially a diagram which maps the silhouette of the surrounding terrain (hills, valleys, mountains, tree tops...) around the chosen location:
 
@@ -16,12 +18,13 @@ A terrain shading mask is essentially a diagram which maps the silhouette of the
 
 Building simulation softwares (IES VE, Trnsys 3D, Design Builder...) can use the .obj geometry files, while photovoltaic-solar thermal software (PV*SOL, PVsyst...) can use .hor files.
 
-==============
+
+
 # Additional info
 
 All .obj and .hor files are created with the use of Grasshopper 'Terrain shading mask' and 'Horizon Angles' components which are part of the [Ladybug](https://github.com/stgeorges/ladybug) project. Free and open source environmental plugin. Ladybug is licensed under the GPL-3.0+ license: http://spdx.org/licenses/GPL-3.0+.
 
-==============
+
 
 # Authors:
 

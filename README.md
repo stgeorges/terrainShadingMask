@@ -1,13 +1,13 @@
 ![Logo](https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/logo.png)
 
 # terrainShadingMask
-terrainShadingMask is a free collection of the terrain masks for particular locations.
+terrainShadingMask is a free collection of terrain masks for various locations.
 They are given in geometrical (.obj files) and textual (.hor files) forms.
 
 
 
 # Description
-A terrain shading mask is essentially a diagram which maps the silhouette of the surrounding terrain (hills, valleys, mountains, tree tops...) around the [chosen location](https://www.google.com/maps/place/42%C2%B041'25.6%22N+22%C2%B010'17.1%22E/@42.6904405,22.1708855,135m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d42.690457!4d22.171431):
+A terrain shading mask is a diagram which maps the silhouette of the surrounding terrain (hills, valleys, mountains, tree tops...) around the [chosen location](https://www.google.com/maps/place/42%C2%B041'25.6%22N+22%C2%B010'17.1%22E/@42.6904405,22.1708855,135m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d42.690457!4d22.171431):
 
 <p align="center">
   <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/surdulica_panorama.jpg" width="650"/>

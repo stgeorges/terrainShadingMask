@@ -1,4 +1,4 @@
-terrainShadingMask is a free collection of the surrounding terrain silhouettes and horizon files
+terrainShadingMask is a free collection of the terrain masks for particular locations.
 
 Copyright (c) 2016, Djordje Spasic
 

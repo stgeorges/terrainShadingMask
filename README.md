@@ -1,7 +1,7 @@
 ![Logo](https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/logo.png)
 
 # terrainShadingMask
-terrainShadingMask is a free collection of the surrounding terrain masks for particular locations.
+terrainShadingMask is a free collection of the terrain masks for particular locations.
 They are given in geometrical (.obj files) and textual (.hor files) forms.
 
 

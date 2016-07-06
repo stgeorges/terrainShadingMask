@@ -1,7 +1,8 @@
 ![Logo](https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/logo.png)
 
 # terrainShadingMask
-terrainShadingMask is a free collection of the surrounding terrain silhouettes and horizon files.
+terrainShadingMask is a free collection of the surrounding terrain masks for particular locations.
+They are given in geometrical (.obj files) and textual (.hor files) forms.
 
 
 
@@ -21,7 +22,7 @@ Building simulation softwares (IES VE, Trnsys 3D, Design Builder...) can use the
 
 
 # Installation
-No installation is required. One just needs to search into the ```objFiles``` folder if one is looking for a geometric representation of the mask, or into the ```horFiles``` folder for textual representation of the mask.
+No installation is required. One just needs to look into the ```objFiles``` folder if one is looking for a geometric representation of the mask, or into the ```horFiles``` folder for textual representation of the mask.
 Both folders contain ```0_terrain_shading_masks_download_links.tsv``` files which can be used to more easily search the masks according to a certain continent and country.
 
 

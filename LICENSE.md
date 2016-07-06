@@ -1,4 +1,4 @@
-terrainShadingMask is a free collection of the terrain masks for particular locations.
+terrainShadingMask is a free collection of terrain masks for various locations.
 
 Copyright (c) 2016, Djordje Spasic
 

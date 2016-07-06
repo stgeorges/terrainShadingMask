@@ -23,21 +23,19 @@ The GPL-3.0+ license <http://spdx.org/licenses/GPL-3.0+>
 Additional permission under GNU GPL version 3 section 7:
 
 
+
 terrainShadingMask uses SRTM GL3 Global 90m raster data from opentopography.org with the following acknowledgement:
 
-Farr, T. G., and M. Kobrick, 2000, Shuttle Radar Topography Mission produces a wealth of data. Eos Trans. AGU, 81:583-583.
-
-Farr, T. G. et al., 2007, The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183. (Also available online at http://www2.jpl.nasa.gov/srtm/SRTM_paper.pdf)
-
-Kobrick, M., 2006, On the toes of giants--How SRTM was born, Photogramm. Eng. Remote Sens., 72:206-210.
-
-Rosen, P. A. et al., 2000, Synthetic aperture radar interferometry, Proc. IEEE, 88:333-382.
+- Farr, T. G., and M. Kobrick, 2000, Shuttle Radar Topography Mission produces a wealth of data. Eos Trans. AGU, 81:583-583.
+- Farr, T. G. et al., 2007, The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, doi:10.1029/2005RG000183. (Also available online at http://www2.jpl.nasa.gov/srtm/SRTM_paper.pdf)
+- Kobrick, M., 2006, On the toes of giants--How SRTM was born, Photogramm. Eng. Remote Sens., 72:206-210.
+- Rosen, P. A. et al., 2000, Synthetic aperture radar interferometry, Proc. IEEE, 88:333-382.
 
 Please refer to SRTM GL3 Global 90m page for more information:
 
 http://opentopo.sdsc.edu/raster?opentopoID=OTSRTM.042013.4326.1
 
-
+===============
 
 terrainShadingMask uses C# GDAL libraries to create its .obj and .hor files, which are distributed under the terms of X11/MIT License. Some external libraries which can be optionally used by GDAL are subject to their own licensing conditions. C# GDAL libraries are developed by Tamas Szekeres. Please refer to their download page for more information:
 

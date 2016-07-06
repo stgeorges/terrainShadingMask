@@ -1,7 +1,7 @@
 ![Logo](https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/logo.png)
 
 # terrainShadingMask
-terrainShadingMask is a free collection of terrain shading masks in a form of .obj geometry files and .hor textual files.
+terrainShadingMask is a free collection of the surrounding terrain silhouettes and horizon files.
 
 
 
@@ -9,7 +9,7 @@ terrainShadingMask is a free collection of terrain shading masks in a form of .o
 A terrain shading mask is essentially a diagram which maps the silhouette of the surrounding terrain (hills, valleys, mountains, tree tops...) around the chosen location:
 
 <p align="center">
-  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/surdulica_panorama.jpg" width="450"/>
+  <img src="https://github.com/stgeorges/terrainShadingMask/blob/master/miscellaneous/images/surdulica_panorama.jpg" width="650"/>
 </p>
 
 <p align="center">
@@ -34,10 +34,5 @@ Support on various issues given by:
 
 Alec Bennett, Andrew T. Young, Chen Weiqing, Christopher Crosby, Dragan Milenkovic, Even Rouault, Graham Dawson, Izabela Spasic, Jonathan de Ferranti, LiMinlu, Menno Deij-van Rijswijk, Michal Migurski, Mostapha Sadeghipour Roudsari, Tamas Szekeres, Ulrich Deuschle
 
-https://github.com/ejnaren/rhinotools
-https://github.com/ejnaren/rhinotools/blob/master/LICENSE
 
-The [GPL-3.0+ license](http://spdx.org/licenses/GPL-3.0+)
-
-Copyright (c) 2016, Djordje Spasic
 

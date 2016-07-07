@@ -35,14 +35,15 @@ Both folders contain ```0_terrain_shading_masks_download_links.tsv``` files whic
 All .obj and .hor files are created with the use of Grasshopper 'Terrain shading mask' and 'Horizon Angles' components which are part of the [Ladybug](https://github.com/stgeorges/ladybug) project. Free and open source environmental plugin. Ladybug is licensed under the GPL-3.0+ license: http://spdx.org/licenses/GPL-3.0+.
 
 
-'Terrain shading mask' component uses SRTM GL3 Global 90m raster data accessed via [OpenTopography](http://www.opentopography.org/).
+'Terrain shading mask' component uses:
+
+- [OpenTopography](http://www.opentopography.org/) SRTM GL3 Global 90m raster data.
 
 
-'Terrain shading mask' component uses SRTM 3 arc second raster data from:
-[Viewfinderpanoramas](http://viewfinderpanoramas.org).
+- [Viewfinderpanoramas](http://viewfinderpanoramas.org) SRTM 3 arc second raster data.
 
 
-It also uses [C# GDAL libraries](http://gisinternals.com/) to project the SRTM raster data.
+- [C# GDAL libraries](http://gisinternals.com/) to project the SRTM raster data.
 
 
 # Authors:

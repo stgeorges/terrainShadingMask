@@ -45,4 +45,4 @@ Developed by Djordje Spasic with assistance of Bojan Savric.
 Support on various issues given by:
 
 
-Alec Bennett, Andrew T. Young, Chen Weiqing, Christopher Crosby, Dragan Milenkovic, Even Rouault, Graham Dawson, Izabela Spasic, Jonathan de Ferranti, LiMinlu, Menno Deij-van Rijswijk, Michal Migurski, Mostapha Sadeghipour Roudsari, Tamas Szekeres, Ulrich Deuschle
+Alec Bennett, Andrew T. Young, Chen Weiqing, Christopher Crosby, Dragan Milenkovic, Even Rouault, Graham Dawson, Izabela Spasic, Jonathan de Ferranti, LiMinlu, Menno Deij-van Rijswijk, Michal Migurski, Mostapha Sadeghipour Roudsari, Paul Meems, Tamas Szekeres, Ulrich Deuschle

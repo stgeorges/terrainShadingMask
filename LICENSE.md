@@ -32,9 +32,17 @@ terrainShadingMask uses SRTM GL3 Global 90m raster data from opentopography.org 
 - Kobrick, M., 2006, On the toes of giants--How SRTM was born, Photogramm. Eng. Remote Sens., 72:206-210.
 - Rosen, P. A. et al., 2000, Synthetic aperture radar interferometry, Proc. IEEE, 88:333-382.
 
-Please refer to SRTM GL3 Global 90m page for more information:
+Please refer to opentopography.org SRTM GL3 Global 90m page for more information:
 
 http://opentopo.sdsc.edu/raster?opentopoID=OTSRTM.042013.4326.1
+
+===============
+
+terrainShadingMask uses SRTM 3 arc second raster data from viewfinderpanoramas.org gathered by Christoph Hormann, and Jonathan de Ferranti.
+
+Please refer to viewfinderpanoramas SRTM 3 arc second page for more information:
+
+http://viewfinderpanoramas.org/dem3.html
 
 ===============
 

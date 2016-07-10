@@ -1,19 +1,39 @@
-FileName(locationName_latitude_longitude_TERRAIN_MASK_visibilityDistance_sphericalMaskStyle	downloadLink
+FileName(locationName_latitude_longitude_TERRAIN_MASK_visibilityDistance_sphericalMaskStyle)	downloadLink
 	
-Europe	
-------	
-ITALY	
-TERRAIN_MASK_SRTM6ARC-SEC_ITA_Salina_38.550222_14.868347_DIST=10KM_sph.obj	http://ge.tt/api/1/files/3l8wsSZ2/0/blob?download
-TERRAIN_MASK_SRTM6ARC-SEC_SANTOS_DUMONT-RIO_BRA_-22.9_-43.17_DIST=7KM_sph.obj	http://ge.tt/api/1/files/5CszUSZ2/0/blob?download
-------	
-ITA_Naples_40.827285_14.347072_TERRAIN_MASK_DIST=50KM_sph.obj	https://raw.githubusercontent.com/stgeorges/pythonscripts/master/ITA_Naples_40.827285_14.347072_TERRAIN_MASK_DIST=50KM_sph.obj
-------	
-SRB_Surdulica_Panorama_42.690457_22.171431_TERRAIN_MASK_visibility=1.8-10KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/SRB_Surdulica_Panorama_42.690457_22.171431_TERRAIN_MASK_visibility=1.8-10KM_sph.obj
+Each mask starts with ISO-3166 3 letter country code. Here is a list of codes for all countries:	
+http://www.worldatlas.com/aatlas/ctycodes.htm	
+	
 ------------------	
-Australia	
-proba 1	
-proba 2	
+[North America]	
+	
 ------------------	
-proba 2b	
-South America	
+[South America]	
+	
+------------------	
+[Europe]	
+	
+_Austria	
+INNSBRUCK_AUT_47.27_11.35_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/INNSBRUCK_AUT_47.27_11.35_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
+_Serbia	
+SRB_Surdulica_42.690457_22.171431_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/SRB_Surdulica_42.690457_22.171431_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
+------------------	
+[Africa]	
+	
+_Algeria	
+ALGIERS_DZA_36.72_3.25_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/ALGIERS_DZA_36.72_3.25_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
+_Libya	
+TRIPOLI_LBY_32.67_13.15_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/TRIPOLI_LBY_32.67_13.15_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
+------------------	
+[Asia]	
+	
+------------------	
+[Australia (Oceania)]	
+	
+------------------	
+[Other]	
+	
 	

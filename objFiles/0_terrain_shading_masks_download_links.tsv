@@ -1,6 +1,6 @@
 FileName(locationName_latitude_longitude_TERRAIN_MASK_visibilityDistance_sphericalMaskStyle)	downloadLink
 	
-Each mask starts with ISO-3166 3 letter country code. Here is a list of codes for all countries:	
+Each mask file contains ISO-3166 3 letter country code. Here is a list of codes for all countries:	
 http://www.worldatlas.com/aatlas/ctycodes.htm	
 	
 ------------------	

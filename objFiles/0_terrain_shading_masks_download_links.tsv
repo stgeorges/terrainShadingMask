@@ -24,8 +24,22 @@ SRB_Surdulica_42.690457_22.171431_TERRAIN_MASK_visibility=0-100KM_sph.obj	https:
 _Algeria	
 ALGIERS_DZA_36.72_3.25_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/ALGIERS_DZA_36.72_3.25_TERRAIN_MASK_visibility=0-100KM_sph.obj
 	
+_Ethiopia	
+ADDIS_ABABA-BOLE_ETH_8.98_38.8_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/ADDIS_ABABA-BOLE_ETH_8.98_38.8_TERRAIN_MASK_visibility=0-100KM_sph.obj
+AWASSA_(LAKE)_ETH_7.07_38.05_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/AWASSA_(LAKE)_ETH_7.07_38.05_TERRAIN_MASK_visibility=0-100KM_sph.obj
+BAHAR_DAR_ETH_11.6_37.4_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/BAHAR_DAR_ETH_11.6_37.4_TERRAIN_MASK_visibility=0-100KM_sph.obj
+COMBOLCHA-DESSIE_ETH_11.08_39.72_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/COMBOLCHA-DESSIE_ETH_11.08_39.72_TERRAIN_MASK_visibility=0-100KM_sph.obj
+DEBRE_MARCOS_ETH_10.35_37.72_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/DEBRE_MARCOS_ETH_10.35_37.72_TERRAIN_MASK_visibility=0-100KM_sph.obj
+DIRE_DAWA_(MIL-CIV)_ETH_9.6_41.87_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/DIRE_DAWA_(MIL-CIV)_ETH_9.6_41.87_TERRAIN_MASK_visibility=0-100KM_sph.obj
+GONDAR_ETH_12.53_37.43_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/GONDAR_ETH_12.53_37.43_TERRAIN_MASK_visibility=0-100KM_sph.obj
+JIMMA_ETH_7.67_36.83_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/JIMMA_ETH_7.67_36.83_TERRAIN_MASK_visibility=0-100KM_sph.obj
+METEHARA_ETH_8.83_39.78_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/METEHARA_ETH_8.83_39.78_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
 _Libya	
 TRIPOLI_LBY_32.67_13.15_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/TRIPOLI_LBY_32.67_13.15_TERRAIN_MASK_visibility=0-100KM_sph.obj
+	
+_Morocco	
+CASABLANCA-NOUASSER_MAR_33.37_-7.58_TERRAIN_MASK_visibility=0-100KM_sph.obj	https://raw.githubusercontent.com/stgeorges/terrainShadingMask/master/objFiles/CASABLANCA-NOUASSER_MAR_33.37_-7.58_TERRAIN_MASK_visibility=0-100KM_sph.obj
 	
 ------------------	
 [Asia]	

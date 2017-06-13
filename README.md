@@ -32,7 +32,7 @@ Both folders contain ```0_terrain_shading_masks_download_links.tsv``` files whic
 # Additional info
 
 
-All .obj and .hor files are created with the use of Grasshopper 'Terrain shading mask' and 'Horizon Angles' components which are part of the [Ladybug](https://github.com/stgeorges/ladybug) project. Free and open source environmental plugin. Ladybug is licensed under the GPL-3.0+ license: http://spdx.org/licenses/GPL-3.0+.
+All .obj and .hor files are created with the use of Grasshopper 'Terrain shading mask' and 'Horizon Angles' components which are part of the [Gismo](https://github.com/stgeorges/gismo) project. Free and open source GIS environmental analysis plugin. Gismo is licensed under the GPL-3.0+ license: http://spdx.org/licenses/GPL-3.0+.
 
 
 'Terrain shading mask' component uses:
@@ -43,7 +43,7 @@ All .obj and .hor files are created with the use of Grasshopper 'Terrain shading
 - [Viewfinderpanoramas](http://viewfinderpanoramas.org) SRTM 3 arc second raster data.
 
 
-- [C# GDAL libraries](http://gisinternals.com/) to project the SRTM raster data.
+- [MapWinGIS](https://github.com/MapWindow/MapWinGIS) to project the SRTM raster data.
 
 
 # Authors:
